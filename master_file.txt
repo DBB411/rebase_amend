@@ -1,2 +1,2 @@
-created on master
+edited on b1
 same line 2 on all branch
