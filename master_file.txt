@@ -2,3 +2,5 @@ edited on local, conflict resolved edited on master
 same line 2 on all branch
 test for abend
 change made for stash demo
+stash <1>
+
